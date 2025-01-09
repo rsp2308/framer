@@ -1,8 +1,19 @@
-# React + Vite
+# Framer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Framer is a modern framework designed to provide fast responses and efficient results. It leverages the power of React and Vite to create a seamless development experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Fast response times
+- Efficient state management
+- Modern React components
+- Easy to set up and use
+
+## Getting Started
+
+To get started with Framer, clone the repository and install the dependencies:
+
+```sh
+git clone <repository-url>
+cd frameR
+npm install
