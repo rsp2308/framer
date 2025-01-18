@@ -13,7 +13,3 @@ Framer is a modern framework designed to provide fast responses and efficient re
 
 To get started with Framer, clone the repository and install the dependencies:
 
-```sh
-git clone <repository-url>
-cd frameR
-npm install
