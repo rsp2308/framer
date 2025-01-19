@@ -1,23 +1,12 @@
-import React, { useState } from 'react'
-
-import './App.css'
-
+import React from 'react'
 
 const App = () => {
-const [a, setA] = useState(10)
-
-// const changeA = () => {
-// setA(20)
-// }
-
- 
-  
-
   return (
     <div>
-      <h1>aname is {a} </h1>
-      <button onClick={()=>{setA(a+10)}}>inc a</button>
-      <button onClick={()=>{setA(a-10)}}>dec a</button>
+      <form className='bg-yellow-300 flex flex-col items-center space-y-4'>
+        <input type="text" />
+      <button className='bg-green-700'>DO It NOw</button>
+      </form>
     </div>
   )
 }
