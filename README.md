@@ -12,4 +12,5 @@ Framer is a modern framework designed to provide fast responses and efficient re
 ## Getting Started
 
 To get started with Framer, clone the repository and install the dependencies:
+-socket io
 
